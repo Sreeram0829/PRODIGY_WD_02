@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Precision Stopwatch | Prodigy Infotech Internship</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="hero">
+        <h1>Precision Stopwatch</h1>
+        <p>A high-performance timing solution with lap recording and analysis. Perfect for athletes, coaches, and anyone who needs accurate time measurement. Track your performance with millisecond precision and analyze your fastest and slowest laps.</p>
+    </div>
+
+    <div class="container">
+        <div class="stopwatch-card">
+            <div class="header">
+                <h2>Stopwatch Controls</h2>
+            </div>
+            <div class="time-display" id="display">00:00:00.000</div>
+            <div class="controls">
+                <button class="btn btn-primary" id="startBtn">
+                    <i class="fas fa-play"></i> Start
+                </button>
+                <button class="btn btn-success" id="lapBtn" disabled>
+                    <i class="fas fa-flag"></i> Lap
+                </button>
+                <button class="btn btn-danger" id="resetBtn" disabled>
+                    <i class="fas fa-stop"></i> Reset
+                </button>
+            </div>
+            <div class="laps-container" id="lapsContainer">
+                <div class="lap-header">
+                    <span>Lap</span>
+                    <span>Time</span>
+                </div>
+                <div id="lapsList"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
