@@ -17,11 +17,11 @@ Fully mobile-friendly
 🖼️ Screenshots
 Live UI Previews:
 (!Desktop View)("https://github.com/user-attachments/assets/a68dcdc7-94d1-48c3-b9c0-817c5e4801c1" />)
-Stopwatch View
-<img width="960" alt="Stopwatch View" src="https://github.com/user-attachments/assets/838a3bb4-239d-484b-94fb-89edee82650d" />
-Lap View
-<img width="960" alt="Lap View" src="https://github.com/user-attachments/assets/22e1f28d-6789-401a-81ce-20c102b93f5a" />
+(!Stopwatch View)("https://github.com/user-attachments/assets/838a3bb4-239d-484b-94fb-89edee82650d" />)
+(!Lap View)("https://github.com/user-attachments/assets/22e1f28d-6789-401a-81ce-20c102b93f5a" />)
 
+Live Deploy
+(https://sreestopwatchweb.netlify.app/)
 
 📁 Project Structure
 Stopwatch_Web_Application/
@@ -63,4 +63,4 @@ Inspired by modern UI/UX principles and real-world stopwatch application.
 Developed by: Chapala Sriram
 Internship Track Code: WD
 Task Number: 02
-Submission Date: 10/06/2025
+Submission Date: 27/06/2025
