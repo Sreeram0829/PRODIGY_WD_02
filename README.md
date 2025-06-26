@@ -16,8 +16,7 @@ Fully mobile-friendly
 
 🖼️ Screenshots
 Live UI Previews:
-Desktop View
-<img width="960" alt="Desktop View" src="https://github.com/user-attachments/assets/a68dcdc7-94d1-48c3-b9c0-817c5e4801c1" />
+(!Desktop View)("https://github.com/user-attachments/assets/a68dcdc7-94d1-48c3-b9c0-817c5e4801c1" />)
 Stopwatch View
 <img width="960" alt="Stopwatch View" src="https://github.com/user-attachments/assets/838a3bb4-239d-484b-94fb-89edee82650d" />
 Lap View
